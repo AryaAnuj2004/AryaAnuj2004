@@ -15,6 +15,7 @@ I'm a full-stack developer passionate about building web apps, learning new tech
      
  
 ## 🚀 Projects
+- [Amazon-Clone](https://github.com/AryaAnuj2004/Amazon-Clone) – I created a website looking like amazon and that was my project in my 2nd year of graduation which is a frontend base project. In that project I used HTML, CSS, JavaScript, React.  
 - [Video Conferencing Web Application](https://github.com/AryaAnuj2004/Video-Conference) – I created a video conferencing web application which is an API base website. In that project I used 
 HTML, CSS, JavaScript and Django (with python). I created this project in my 3rd year of graduation. 
 Following are the main features of my project – 
