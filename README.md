@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Anuj Kumar Arya.
 
 I'm a full-stack developer passionate about building web apps, learning new technologies, and contributing to open-source.  
+I'm also know about some cybersecurity concepts and know how to use Kali Linux. I also know how to use security tools like Burp Suite and Wireshark.
 
 ## 🔧 Skills
 - Frontend: React, HTML, CSS, JavaScript, Bootstrap
@@ -8,10 +9,10 @@ I'm a full-stack developer passionate about building web apps, learning new tech
 - Databases: PostgreSQL, SQL Server
 - Programming Languages: Java, Python 
 - Operating Systems: Windows, Kali Linux                   
-- Frameworks/Libraries/Tools: Spring, Django, NumPy, Pandas, Matplotlib, OpenCV 
+- Frameworks/Libraries/Tools: Spring, Django, NumPy, Pandas, Matplotlib, OpenCV, Scikit Learn 
 - Version Control: Git, Docker  
 - Methodologies: Agile   
-- Cybersecurity: Basic knowledge of ethical hacking and penetration testing, Burpsuite, WireShark   
+- Cybersecurity: Basic knowledge of ethical hacking and penetration testing, Burp Suite, Wireshark   
      
  
 ## 🚀 Projects
