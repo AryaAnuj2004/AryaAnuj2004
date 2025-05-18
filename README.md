@@ -1,30 +1,50 @@
 # Hi there 👋 I'm Anuj Kumar Arya.
 
-I'm a full-stack developer passionate about building web apps, learning new technologies, and contributing to open-source.  
-I'm also know about some cybersecurity concepts and know how to use Kali Linux. I also know how to use security tools like Burp Suite and Wireshark.
+Motivated and detail-oriented Computer Science undergraduate with a strong foundation in Java, 
+Python, and full-stack web development. Passionate about problem-solving, building scalable 
+applications, and exploring cybersecurity. Seeking an opportunity to contribute to real-world software 
+projects in a growth-oriented organization. 
 
 ## 🔧 Skills
-- Frontend: React, HTML, CSS, JavaScript, Bootstrap
-- Backend: Django, Python
-- Databases: PostgreSQL, SQL Server
-- Programming Languages: Java, Python 
-- Operating Systems: Windows, Kali Linux                   
-- Frameworks/Libraries/Tools: Spring, Django, NumPy, Pandas, Matplotlib, OpenCV, Scikit Learn 
-- Version Control: Git, Docker  
-- Methodologies: Agile   
-- Cybersecurity: Basic knowledge of ethical hacking and penetration testing, Burp Suite, Wireshark   
+- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Django, Python
+- **Databases:** PostgreSQL, SQL Server
+- **Programming Languages:** Java, Python 
+- **Operating Systems:** Windows, Kali Linux                   
+- **Frameworks/Libraries/Tools:** Spring, Django, NumPy, Pandas, Matplotlib, OpenCV, Scikit Learn 
+- **Version Control:** Git, Docker  
+- **Methodologies:** Agile   
+- **Cybersecurity:** Ethical hacking, Penetration testing, Burp Suite, Wireshark, Nmap, Matasploit
+- **Certification:** Cloud Computing with AWS
+
+## 👨‍🎓Internship/Training
+- ### Cloud Computing with AWS
+  
+    ( https://drive.google.com/drive/folders/1an3DKA3ECzXzAcQ78skbmEM-Oev5Px8m?usp=sharing )
+    
+     Completed comprehensive AWS training from Internshala, gaining hands-on experience with core AWS 
+     services including **EC2, S3, Lambda, IAM, AWS databases (RDS), security & management tools, and cost 
+     optimization (AWS Billing and Pricing).** Developed practical skills in cloud architecture, deployment, and 
+     management through a real-world project. Adept at leveraging AWS solutions to optimize 
+     infrastructure, enhance scalability, and improve security. Eager to apply cloud computing knowledge to 
+     contribute effectively in a dynamic tech environment.
+     
      
  
 ## 🚀 Projects
-- [Amazon-Clone](https://github.com/AryaAnuj2004/Amazon-Clone) – I created a website looking like amazon and that was my project in my 2nd year of graduation which is a frontend base project. In that project I used HTML, CSS, JavaScript, React.  
-- [Video Conferencing Web Application](https://github.com/AryaAnuj2004/Video-Conference) – I created a video conferencing web application which is an API base website. In that project I used 
-HTML, CSS, JavaScript and Django (with python). I created this project in my 3rd year of graduation. 
-Following are the main features of my project – 
-  - User handle pages. 
-  - A multiuser display from which we can connect multiple users and schedule our virtual meeting. 
-  - A randomly meeting id is generated from which people can join the same meeting window. 
-  - Screen sharing feature is also available in this project from which we can share our screen to the 
-    people which are joined.
+- [Amazon-Clone](https://github.com/AryaAnuj2004/Amazon-Clone) – Developed a front-end replica of Amazon using HTML, CSS, and JavaScript. Implemented product 
+listings, navigation bar, and responsive design.
+
+     *Tech Stack*: HTML, CSS, JavaScript   
+- [Video Conferencing Web Application](https://github.com/AryaAnuj2004/Video-Conference) – Built a multi-user video conferencing app using Django, HTML, CSS, and JavaScript. Implemented real
+time meetings, screen sharing, and unique meeting ID generation.
+
+     Key Features: 
+     - User authentication and handling 
+     - Dynamic meeting rooms with multi-user display 
+     - Secure screen sharing functionality
+  
+     *Tech Stack*: Django, Python, JavaScript, HTML, CSS
 
 
 ## 📫 Reach Me At
